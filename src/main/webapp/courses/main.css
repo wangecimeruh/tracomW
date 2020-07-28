@@ -1,0 +1,9 @@
+
+body{
+background-color:Light-Gray;
+}
+.tableDepartments{
+width:100%;
+ border: 2px solid powderblue;
+cellspacing:2px;
+}
